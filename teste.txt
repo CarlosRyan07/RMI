@@ -1,0 +1,9 @@
+Este é um arquivo de teste para demonstrar o envio de arquivos no chat RMI.
+
+Funcionalidades implementadas:
+- Mensagens privadas entre clientes (P2P)
+- Mensagens de sala (broadcast)
+- Envio de arquivos
+- Lista de clientes ativos
+
+Data: 22/07/2025
